@@ -1,9 +1,0 @@
-<application>
-  <component name="FindSettings">
-    <option name="customScope" value="File '/Users/chenchong/dev/workspace/Xcar/xcar-android/app-xcar/src/main/java/com/xcar/activity/ui/fragment/CarConditionFragment.java'" />
-    <option name="defaultScopeName" value="File '/Users/chenchong/dev/workspace/Xcar/xcar-android/app-xcar/src/main/java/com/xcar/activity/ui/fragment/CarConditionFragment.java'" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '/Users/chenchong/dev/workspace/Xcar/xcar-android/app-xcar/src/main/java/com/xcar/activity/ui/fragment/CarConditionFragment.java'" />
-  </component>
-</application>
